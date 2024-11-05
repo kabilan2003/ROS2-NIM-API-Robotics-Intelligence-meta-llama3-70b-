@@ -52,11 +52,6 @@ This repository demonstrates the integration of a ROS2 node with NVIDIA’s NIM 
    ros2 run <your_package_name> <your_node_name>
    ```
 
-2. **Example Commands**:
-   - Move the robot forward
-   - Rotate left
-   - Ask a question like "What is the battery status?"
-
 ## File Structure
 
 - `src/` - ROS2 Node implementation

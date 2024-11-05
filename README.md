@@ -1,6 +1,3 @@
-Here’s a README.md template for your repository:
-
-```markdown
 # ROS2 Node with NVIDIA NIM API Integration for Enhanced Robotics Intelligence (meta/llama3-70b)
 
 This repository demonstrates the integration of a ROS2 node with NVIDIA’s NIM API, utilizing the **meta/llama3-70b-instruct** model to enhance robotics intelligence. By leveraging generative AI capabilities, this setup enables a variety of functionalities, including human-robot interaction, complex instruction following, real-time Q&A, and more.

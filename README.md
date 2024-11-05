@@ -46,6 +46,8 @@ This repository demonstrates the integration of a ROS2 node with NVIDIA’s NIM 
    ```
 
 ## Usage
+![Image segmentation(9)](https://github.com/user-attachments/assets/613012ca-cd09-4ad2-a72d-4612cb547b10)
+
 
 1. **Launch the ROS2 Node**:
    ```bash
